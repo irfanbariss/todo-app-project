@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": "e0202b63-1ae0-450e-9169-99b95ea5f9dc",
+      "text": "Learn how to write backend code"
+    },
+    {
+      "id": "a4b33e9f-4878-431c-b54b-15ea684e83cd",
+      "text": "Create a todo app using next.js"
+    },
+    {
+      "id": "cec400f4-dbb1-43f6-9a39-2b677d0eda1d",
+      "text": "Hope to get the job"
+    }
+  ]
+}
